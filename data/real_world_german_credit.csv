@@ -1,0 +1,1001 @@
+client_id,age,gender,marital_status,credit_duration_months,credit_amount_eur,credit_history,loan_purpose,housing,existing_credits_count,foreign_worker,loan_approved
+BANK_0001,67,Male,Single,6,1169,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0002,22,Female,Divorced/Separated/Married,48,5951,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0003,49,Male,Single,12,2096,Critical account / other credits existing,Education,Own,1,1,1
+BANK_0004,45,Male,Single,42,7882,Existing credits paid back duly till now,Furniture/Equipment,For Free,1,1,1
+BANK_0005,53,Male,Single,24,4870,Delay in paying off in past,Car (new),For Free,2,1,0
+BANK_0006,35,Male,Single,36,9055,Existing credits paid back duly till now,Education,For Free,1,1,1
+BANK_0007,53,Male,Single,24,2835,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0008,35,Male,Single,36,6948,Existing credits paid back duly till now,Car (used),Rent,1,1,1
+BANK_0009,61,Male,Divorced/Separated,12,3059,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0010,28,Male,Married/Widowed,30,5234,Critical account / other credits existing,Car (new),Own,2,1,0
+BANK_0011,25,Female,Divorced/Separated/Married,12,1295,Existing credits paid back duly till now,Car (new),Rent,1,1,0
+BANK_0012,24,Female,Divorced/Separated/Married,48,4308,Existing credits paid back duly till now,Business,Rent,1,1,0
+BANK_0013,22,Female,Divorced/Separated/Married,12,1567,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0014,60,Male,Single,24,1199,Critical account / other credits existing,Car (new),Own,2,1,0
+BANK_0015,28,Female,Divorced/Separated/Married,15,1403,Existing credits paid back duly till now,Car (new),Rent,1,1,1
+BANK_0016,32,Female,Divorced/Separated/Married,24,1282,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0017,53,Male,Single,24,2424,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0018,25,Male,Single,30,8072,No credits taken / all paid back duly,Business,Own,3,1,1
+BANK_0019,44,Female,Divorced/Separated/Married,24,12579,Existing credits paid back duly till now,Car (used),For Free,1,1,0
+BANK_0020,31,Male,Single,24,3430,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0021,48,Male,Single,9,2134,Critical account / other credits existing,Car (new),Own,3,1,1
+BANK_0022,44,Male,Single,6,2647,Existing credits paid back duly till now,Radio/Television,Rent,1,1,1
+BANK_0023,48,Male,Single,10,2241,Critical account / other credits existing,Car (new),Rent,2,0,1
+BANK_0024,44,Male,Single,12,1804,Critical account / other credits existing,Car (used),Own,1,1,1
+BANK_0025,26,Male,Married/Widowed,10,2069,Critical account / other credits existing,Furniture/Equipment,Own,2,0,1
+BANK_0026,36,Male,Single,6,1374,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0027,39,Male,Married/Widowed,6,426,No credits taken / all paid back duly,Radio/Television,Own,1,1,1
+BANK_0028,42,Female,Divorced/Separated/Married,12,409,All credits at this bank paid back duly,Radio/Television,Rent,2,1,1
+BANK_0029,34,Male,Single,7,2415,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0030,63,Male,Single,60,6836,Delay in paying off in past,Business,Own,2,1,0
+BANK_0031,36,Male,Married/Widowed,18,1913,Existing credits paid back duly till now,Business,Own,1,1,1
+BANK_0032,27,Male,Single,24,4020,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0033,30,Male,Single,18,5866,Existing credits paid back duly till now,Car (new),Own,2,1,1
+BANK_0034,57,Male,Single,12,1264,Critical account / other credits existing,Business,Rent,1,1,1
+BANK_0035,33,Female,Divorced/Separated/Married,12,1474,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0036,25,Male,Single,45,4746,Critical account / other credits existing,Radio/Television,Own,2,1,0
+BANK_0037,31,Male,Single,48,6110,Critical account / other credits existing,Education,For Free,1,1,1
+BANK_0038,37,Male,Single,18,2100,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0039,37,Male,Single,10,1225,Existing credits paid back duly till now,Domestic Appliances,Own,1,1,1
+BANK_0040,24,Male,Single,9,458,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0041,30,Male,Single,30,2333,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0042,26,Male,Divorced/Separated,12,1158,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0043,44,Male,Single,18,6204,Delay in paying off in past,Repairs,Own,1,1,1
+BANK_0044,24,Male,Married/Widowed,30,6187,Critical account / other credits existing,Car (used),Rent,2,1,1
+BANK_0045,58,Female,Divorced/Separated/Married,48,6143,Critical account / other credits existing,Car (used),For Free,2,1,0
+BANK_0046,35,Female,Divorced/Separated/Married,11,1393,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0047,39,Male,Single,36,2299,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0048,23,Female,Divorced/Separated/Married,6,1352,Existing credits paid back duly till now,Car (used),Rent,1,1,1
+BANK_0049,39,Male,Single,11,7228,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0050,28,Female,Divorced/Separated/Married,12,2073,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0051,29,Male,Single,24,2333,Delay in paying off in past,Furniture/Equipment,Own,1,1,1
+BANK_0052,30,Male,Single,27,5965,Delay in paying off in past,Car (used),Own,2,1,1
+BANK_0053,25,Male,Single,12,1262,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0054,31,Male,Single,18,3378,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0055,57,Male,Single,36,2225,Delay in paying off in past,Car (new),For Free,2,1,0
+BANK_0056,26,Male,Single,6,783,All credits at this bank paid back duly,Car (new),Own,1,1,1
+BANK_0057,52,Male,Single,12,6468,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0058,31,Female,Divorced/Separated/Married,36,9566,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0059,23,Female,Divorced/Separated/Married,18,1961,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0060,23,Female,Divorced/Separated/Married,36,6229,Critical account / other credits existing,Furniture/Equipment,Rent,2,1,0
+BANK_0061,27,Male,Married/Widowed,9,1391,Existing credits paid back duly till now,Business,Own,1,1,1
+BANK_0062,50,Male,Single,15,1537,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0063,61,Male,Single,36,1953,No credits taken / all paid back duly,Business,For Free,1,1,0
+BANK_0064,25,Male,Single,48,14421,No credits taken / all paid back duly,Business,Own,1,1,0
+BANK_0065,26,Female,Divorced/Separated/Married,24,3181,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0066,48,Male,Single,27,5190,Existing credits paid back duly till now,Repairs,Own,4,1,1
+BANK_0067,29,Female,Divorced/Separated/Married,12,2171,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0068,22,Male,Married/Widowed,12,1007,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0069,37,Male,Single,36,1819,Existing credits paid back duly till now,Education,For Free,1,1,0
+BANK_0070,25,Female,Divorced/Separated/Married,36,2394,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0071,30,Female,Divorced/Separated/Married,36,8133,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0072,46,Male,Single,7,730,Critical account / other credits existing,Radio/Television,Rent,2,1,1
+BANK_0073,51,Male,Single,8,1164,Critical account / other credits existing,Others,For Free,2,1,1
+BANK_0074,41,Female,Divorced/Separated/Married,42,5954,Critical account / other credits existing,Business,Own,2,1,1
+BANK_0075,40,Male,Single,36,1977,Existing credits paid back duly till now,Education,Own,1,1,0
+BANK_0076,66,Male,Single,12,1526,Critical account / other credits existing,Car (used),For Free,2,1,1
+BANK_0077,34,Male,Single,42,3965,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0078,51,Male,Single,11,4771,Delay in paying off in past,Radio/Television,Own,1,1,1
+BANK_0079,39,Male,Single,54,9436,No credits taken / all paid back duly,Car (used),Own,1,1,1
+BANK_0080,22,Male,Married/Widowed,30,3832,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0081,44,Female,Divorced/Separated/Married,24,5943,Existing credits paid back duly till now,Radio/Television,Own,2,1,0
+BANK_0082,47,Male,Single,15,1213,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0083,24,Female,Divorced/Separated/Married,18,1568,Existing credits paid back duly till now,Business,Rent,1,1,1
+BANK_0084,58,Female,Divorced/Separated/Married,24,1755,Existing credits paid back duly till now,Others,Own,1,1,1
+BANK_0085,52,Male,Single,10,2315,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0086,29,Female,Divorced/Separated/Married,12,1412,Critical account / other credits existing,Business,Own,2,1,1
+BANK_0087,27,Female,Divorced/Separated/Married,18,1295,Critical account / other credits existing,Furniture/Equipment,Own,2,1,1
+BANK_0088,47,Male,Single,36,12612,Existing credits paid back duly till now,Education,For Free,1,1,0
+BANK_0089,30,Male,Single,18,2249,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0090,28,Male,Single,12,1108,No credits taken / all paid back duly,Repairs,Own,2,1,0
+BANK_0091,56,Male,Single,12,618,Critical account / other credits existing,Radio/Television,Own,1,1,1
+BANK_0092,54,Male,Single,12,1409,Critical account / other credits existing,Car (used),Own,1,1,1
+BANK_0093,33,Female,Divorced/Separated/Married,12,797,Critical account / other credits existing,Radio/Television,Own,1,1,0
+BANK_0094,20,Male,Single,24,3617,Critical account / other credits existing,Furniture/Equipment,Rent,2,1,1
+BANK_0095,54,Male,Single,12,1318,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0096,58,Male,Single,54,15945,No credits taken / all paid back duly,Business,Rent,1,1,0
+BANK_0097,61,Female,Divorced/Separated/Married,12,2012,Critical account / other credits existing,Education,Own,1,1,1
+BANK_0098,34,Male,Single,18,2622,Existing credits paid back duly till now,Business,Own,1,1,1
+BANK_0099,36,Male,Single,36,2337,Critical account / other credits existing,Radio/Television,Own,1,1,1
+BANK_0100,36,Male,Single,20,7057,Delay in paying off in past,Car (used),Rent,2,1,1
+BANK_0101,41,Male,Married/Widowed,24,1469,Existing credits paid back duly till now,Car (new),Rent,1,1,1
+BANK_0102,24,Male,Single,36,2323,Existing credits paid back duly till now,Radio/Television,Rent,1,1,1
+BANK_0103,24,Female,Divorced/Separated/Married,6,932,Delay in paying off in past,Radio/Television,Own,1,1,1
+BANK_0104,35,Male,Single,9,1919,Critical account / other credits existing,Furniture/Equipment,Rent,1,1,1
+BANK_0105,26,Male,Married/Widowed,12,2445,Existing credits paid back duly till now,Car (used),Rent,1,1,1
+BANK_0106,39,Male,Single,24,11938,Critical account / other credits existing,Others,Own,2,1,0
+BANK_0107,39,Male,Single,18,6458,All credits at this bank paid back duly,Car (new),Own,2,1,0
+BANK_0108,32,Male,Single,12,6078,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0109,30,Female,Divorced/Separated/Married,24,7721,Existing credits paid back duly till now,Furniture/Equipment,Own,1,0,1
+BANK_0110,35,Male,Married/Widowed,14,1410,Existing credits paid back duly till now,Business,Own,1,1,1
+BANK_0111,31,Male,Divorced/Separated,6,1449,Delay in paying off in past,Business,Own,2,1,1
+BANK_0112,23,Female,Divorced/Separated/Married,15,392,Existing credits paid back duly till now,Education,Rent,1,1,1
+BANK_0113,28,Male,Single,18,6260,Existing credits paid back duly till now,Car (new),Rent,1,1,1
+BANK_0114,25,Female,Divorced/Separated/Married,36,7855,Critical account / other credits existing,Car (new),Own,2,1,0
+BANK_0115,35,Male,Married/Widowed,12,1680,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0116,47,Male,Single,48,3578,Critical account / other credits existing,Radio/Television,Own,1,1,1
+BANK_0117,30,Female,Divorced/Separated/Married,42,7174,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0118,27,Female,Divorced/Separated/Married,10,2132,Critical account / other credits existing,Furniture/Equipment,Rent,2,0,1
+BANK_0119,23,Female,Divorced/Separated/Married,33,4281,Critical account / other credits existing,Furniture/Equipment,Own,2,1,0
+BANK_0120,36,Male,Divorced/Separated,12,2366,Critical account / other credits existing,Car (new),Own,1,1,1
+BANK_0121,25,Female,Divorced/Separated/Married,21,1835,Existing credits paid back duly till now,Radio/Television,Own,2,1,0
+BANK_0122,41,Female,Divorced/Separated/Married,24,3868,Critical account / other credits existing,Car (used),Rent,2,1,1
+BANK_0123,24,Male,Single,12,1768,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,1
+BANK_0124,63,Male,Single,10,781,Critical account / other credits existing,Car (new),For Free,2,1,1
+BANK_0125,27,Female,Divorced/Separated/Married,18,1924,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,0
+BANK_0126,30,Male,Single,12,2121,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0127,40,Male,Married/Widowed,12,701,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0128,30,Male,Single,12,639,Existing credits paid back duly till now,Repairs,Own,1,1,0
+BANK_0129,34,Male,Single,12,1860,Critical account / other credits existing,Car (used),Own,2,1,1
+BANK_0130,29,Female,Divorced/Separated/Married,12,3499,Critical account / other credits existing,Car (new),Own,2,1,0
+BANK_0131,24,Female,Divorced/Separated/Married,48,8487,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0132,29,Male,Single,36,6887,Delay in paying off in past,Education,Own,1,1,0
+BANK_0133,27,Male,Single,15,2708,Existing credits paid back duly till now,Furniture/Equipment,Own,2,1,1
+BANK_0134,47,Male,Single,18,1984,Existing credits paid back duly till now,Furniture/Equipment,For Free,2,1,1
+BANK_0135,21,Female,Divorced/Separated/Married,60,10144,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0136,38,Female,Divorced/Separated/Married,12,1240,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0137,27,Male,Single,27,8613,Delay in paying off in past,Car (used),Own,2,1,1
+BANK_0138,66,Male,Single,12,766,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0139,35,Male,Single,15,2728,Critical account / other credits existing,Radio/Television,Own,3,1,1
+BANK_0140,44,Female,Divorced/Separated/Married,12,1881,Existing credits paid back duly till now,Radio/Television,Rent,1,1,1
+BANK_0141,27,Male,Married/Widowed,6,709,Existing credits paid back duly till now,Car (new),Own,1,0,1
+BANK_0142,30,Female,Divorced/Separated/Married,36,4795,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0143,27,Male,Single,27,3416,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0144,22,Male,Single,18,2462,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0145,23,Female,Divorced/Separated/Married,21,2288,Critical account / other credits existing,Furniture/Equipment,Own,1,1,1
+BANK_0146,30,Male,Single,48,3566,All credits at this bank paid back duly,Business,Own,1,1,1
+BANK_0147,39,Female,Divorced/Separated/Married,6,860,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0148,51,Female,Divorced/Separated/Married,12,682,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0149,28,Male,Single,36,5371,Critical account / other credits existing,Furniture/Equipment,Own,2,1,1
+BANK_0150,46,Male,Single,18,1582,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0151,42,Male,Single,6,1346,Existing credits paid back duly till now,Radio/Television,For Free,1,1,1
+BANK_0152,38,Male,Single,10,1924,Existing credits paid back duly till now,Radio/Television,Own,1,0,1
+BANK_0153,24,Male,Single,36,5848,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0154,29,Female,Divorced/Separated/Married,24,7758,Critical account / other credits existing,Car (used),Rent,1,1,1
+BANK_0155,36,Male,Single,24,6967,Delay in paying off in past,Business,Rent,1,1,1
+BANK_0156,20,Female,Divorced/Separated/Married,12,1282,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,0
+BANK_0157,48,Male,Single,9,1288,Critical account / other credits existing,Repairs,Own,2,0,1
+BANK_0158,45,Male,Married/Widowed,12,339,All credits at this bank paid back duly,Retraining,Own,1,1,1
+BANK_0159,38,Male,Single,24,3512,Existing credits paid back duly till now,Car (new),Own,2,1,1
+BANK_0160,34,Male,Single,6,1898,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0161,36,Male,Single,24,2872,Critical account / other credits existing,Radio/Television,Own,1,1,1
+BANK_0162,30,Female,Divorced/Separated/Married,18,1055,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0163,36,Male,Single,15,1262,Existing credits paid back duly till now,Domestic Appliances,Own,2,1,1
+BANK_0164,70,Male,Single,10,7308,Existing credits paid back duly till now,Car (new),For Free,1,1,1
+BANK_0165,36,Male,Single,36,909,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0166,32,Male,Single,6,2978,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0167,33,Female,Divorced/Separated/Married,18,1131,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0168,20,Female,Divorced/Separated/Married,11,1577,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0169,25,Female,Divorced/Separated/Married,24,3972,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,1
+BANK_0170,31,Male,Divorced/Separated,24,1935,Critical account / other credits existing,Business,Own,2,1,0
+BANK_0171,33,Male,Single,15,950,No credits taken / all paid back duly,Car (new),Rent,2,1,0
+BANK_0172,26,Female,Divorced/Separated/Married,12,763,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0173,34,Female,Divorced/Separated/Married,24,2064,Delay in paying off in past,Furniture/Equipment,Own,1,1,0
+BANK_0174,33,Male,Single,8,1414,Existing credits paid back duly till now,Radio/Television,Own,1,0,1
+BANK_0175,26,Male,Single,21,3414,Delay in paying off in past,Education,Own,2,1,0
+BANK_0176,53,Female,Divorced/Separated/Married,30,7485,All credits at this bank paid back duly,Car (used),Own,1,1,0
+BANK_0177,42,Male,Divorced/Separated,12,2577,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0178,52,Male,Single,6,338,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0179,31,Male,Single,12,1963,Existing credits paid back duly till now,Radio/Television,Rent,2,1,1
+BANK_0180,65,Male,Single,21,571,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0181,28,Male,Divorced/Separated,36,9572,Delay in paying off in past,Business,Own,2,1,0
+BANK_0182,30,Male,Divorced/Separated,36,4455,Delay in paying off in past,Business,Own,2,1,0
+BANK_0183,40,Male,Single,21,1647,All credits at this bank paid back duly,Car (new),Own,2,1,0
+BANK_0184,50,Male,Single,24,3777,Critical account / other credits existing,Furniture/Equipment,Own,1,1,1
+BANK_0185,36,Male,Single,18,884,Critical account / other credits existing,Car (new),Own,1,1,0
+BANK_0186,31,Male,Single,15,1360,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0187,74,Female,Divorced/Separated/Married,9,5129,All credits at this bank paid back duly,Car (used),For Free,1,1,0
+BANK_0188,68,Male,Single,16,1175,Critical account / other credits existing,Car (new),For Free,3,1,1
+BANK_0189,20,Male,Married/Widowed,12,674,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0190,33,Female,Divorced/Separated/Married,18,3244,No credits taken / all paid back duly,Furniture/Equipment,Own,2,1,1
+BANK_0191,54,Male,Single,24,4591,Existing credits paid back duly till now,Business,Own,3,1,0
+BANK_0192,34,Male,Single,48,3844,No credits taken / all paid back duly,Business,For Free,1,1,0
+BANK_0193,36,Male,Single,27,3915,Existing credits paid back duly till now,Business,Own,1,1,0
+BANK_0194,29,Male,Married/Widowed,6,2108,Existing credits paid back duly till now,Radio/Television,Rent,1,1,1
+BANK_0195,21,Male,Single,45,3031,Existing credits paid back duly till now,Radio/Television,Rent,1,1,0
+BANK_0196,34,Female,Divorced/Separated/Married,9,1501,Critical account / other credits existing,Education,Own,2,1,0
+BANK_0197,28,Female,Divorced/Separated/Married,6,1382,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0198,27,Female,Divorced/Separated/Married,12,951,Existing credits paid back duly till now,Furniture/Equipment,Rent,4,1,0
+BANK_0199,36,Male,Single,24,2760,Existing credits paid back duly till now,Car (used),For Free,1,1,1
+BANK_0200,40,Male,Divorced/Separated,18,4297,Delay in paying off in past,Furniture/Equipment,Own,1,1,0
+BANK_0201,52,Male,Single,9,936,Critical account / other credits existing,Education,Own,2,1,1
+BANK_0202,27,Male,Married/Widowed,12,1168,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0203,26,Male,Single,27,5117,Delay in paying off in past,Business,Own,2,1,1
+BANK_0204,21,Male,Married/Widowed,12,902,Existing credits paid back duly till now,Retraining,Rent,1,1,0
+BANK_0205,38,Male,Single,12,1495,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0206,38,Male,Single,30,10623,Critical account / other credits existing,Car (used),For Free,3,1,1
+BANK_0207,43,Male,Single,12,1935,Critical account / other credits existing,Furniture/Equipment,Own,3,1,1
+BANK_0208,26,Male,Single,12,1424,Critical account / other credits existing,Domestic Appliances,Own,1,1,1
+BANK_0209,21,Male,Married/Widowed,24,6568,Existing credits paid back duly till now,Business,Own,1,1,1
+BANK_0210,55,Male,Single,12,1413,Existing credits paid back duly till now,Car (used),Own,1,0,1
+BANK_0211,33,Male,Single,9,3074,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0212,45,Female,Divorced/Separated/Married,36,3835,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0213,50,Male,Single,27,5293,No credits taken / all paid back duly,Business,Own,2,1,0
+BANK_0214,66,Male,Single,30,1908,Delay in paying off in past,Business,Own,1,1,0
+BANK_0215,51,Male,Single,36,3342,Critical account / other credits existing,Radio/Television,Own,1,1,1
+BANK_0216,39,Female,Divorced/Separated/Married,6,932,Critical account / other credits existing,Retraining,Own,2,1,1
+BANK_0217,31,Male,Single,18,3104,No credits taken / all paid back duly,Business,Own,1,1,1
+BANK_0218,23,Male,Single,36,3913,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0219,24,Male,Divorced/Separated,24,3021,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,1
+BANK_0220,64,Female,Divorced/Separated/Married,10,1364,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0221,26,Male,Married/Widowed,12,625,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0222,23,Female,Divorced/Separated/Married,12,1200,Existing credits paid back duly till now,Education,Rent,1,1,1
+BANK_0223,30,Male,Single,12,707,Existing credits paid back duly till now,Radio/Television,Own,2,1,1
+BANK_0224,32,Male,Single,24,2978,Delay in paying off in past,Business,Own,2,1,1
+BANK_0225,30,Male,Single,15,4657,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0226,27,Male,Single,36,2613,No credits taken / all paid back duly,Repairs,Own,2,1,1
+BANK_0227,27,Male,Single,48,10961,Existing credits paid back duly till now,Radio/Television,Own,2,1,0
+BANK_0228,53,Male,Single,12,7865,Existing credits paid back duly till now,Furniture/Equipment,For Free,1,1,0
+BANK_0229,22,Male,Single,9,1478,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0230,22,Male,Single,24,3149,Existing credits paid back duly till now,Furniture/Equipment,For Free,1,1,1
+BANK_0231,26,Male,Single,36,4210,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0232,51,Male,Single,9,2507,Existing credits paid back duly till now,Car (new),For Free,1,1,1
+BANK_0233,35,Male,Single,12,2141,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0234,25,Male,Married/Widowed,18,866,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0235,42,Male,Single,4,1544,Critical account / other credits existing,Radio/Television,Own,3,1,1
+BANK_0236,30,Male,Single,24,1823,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0237,23,Male,Single,6,14555,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0238,61,Male,Divorced/Separated,21,2767,Existing credits paid back duly till now,Business,Rent,2,1,0
+BANK_0239,35,Female,Divorced/Separated/Married,12,1291,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0240,39,Male,Single,30,2522,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0241,29,Female,Divorced/Separated/Married,24,915,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0242,51,Male,Single,6,1595,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0243,24,Male,Single,48,4605,No credits taken / all paid back duly,Car (used),For Free,2,1,0
+BANK_0244,27,Female,Divorced/Separated/Married,12,1185,Critical account / other credits existing,Business,Own,2,1,1
+BANK_0245,35,Female,Divorced/Separated/Married,12,3447,All credits at this bank paid back duly,Retraining,Own,1,1,1
+BANK_0246,25,Male,Single,24,1258,Existing credits paid back duly till now,Business,Own,1,1,1
+BANK_0247,52,Male,Single,12,717,Critical account / other credits existing,Radio/Television,Own,3,1,1
+BANK_0248,35,Male,Single,6,1204,No credits taken / all paid back duly,Car (new),Rent,1,0,1
+BANK_0249,26,Male,Single,24,1925,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0250,22,Female,Divorced/Separated/Married,18,433,Existing credits paid back duly till now,Radio/Television,Rent,1,1,0
+BANK_0251,39,Female,Divorced/Separated/Married,6,666,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0252,46,Female,Divorced/Separated/Married,12,2251,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0253,24,Female,Divorced/Separated/Married,30,2150,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0254,35,Male,Single,24,4151,Delay in paying off in past,Furniture/Equipment,Own,2,1,1
+BANK_0255,24,Male,Single,9,2030,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0256,27,Male,Single,60,7418,Delay in paying off in past,Radio/Television,Own,1,1,1
+BANK_0257,35,Male,Single,24,2684,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0258,29,Male,Divorced/Separated,12,2149,All credits at this bank paid back duly,Radio/Television,For Free,1,1,0
+BANK_0259,23,Female,Divorced/Separated/Married,15,3812,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0260,57,Female,Divorced/Separated/Married,11,1154,Critical account / other credits existing,Radio/Television,Own,3,1,1
+BANK_0261,27,Male,Single,12,1657,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0262,55,Female,Divorced/Separated/Married,24,1603,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0263,36,Male,Single,18,5302,Critical account / other credits existing,Car (new),For Free,3,1,1
+BANK_0264,57,Female,Divorced/Separated/Married,12,2748,Critical account / other credits existing,Education,For Free,3,1,1
+BANK_0265,32,Male,Single,10,1231,Critical account / other credits existing,Car (new),Own,2,0,1
+BANK_0266,37,Male,Single,15,802,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0267,36,Male,Single,36,6304,Critical account / other credits existing,Business,Own,2,1,1
+BANK_0268,38,Female,Divorced/Separated/Married,24,1533,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0269,45,Male,Divorced/Separated,14,8978,Existing credits paid back duly till now,Car (new),Own,1,0,0
+BANK_0270,25,Male,Single,24,999,Existing credits paid back duly till now,Radio/Television,Own,2,1,1
+BANK_0271,32,Male,Single,18,2662,Existing credits paid back duly till now,Car (new),Own,1,0,1
+BANK_0272,37,Female,Divorced/Separated/Married,12,1402,Critical account / other credits existing,Furniture/Equipment,Rent,1,1,1
+BANK_0273,36,Male,Single,48,12169,All credits at this bank paid back duly,Car (new),For Free,1,1,1
+BANK_0274,28,Male,Single,48,3060,Existing credits paid back duly till now,Radio/Television,Own,2,1,0
+BANK_0275,34,Male,Divorced/Separated,30,11998,Existing credits paid back duly till now,Repairs,Own,1,1,0
+BANK_0276,32,Male,Single,9,2697,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0277,26,Female,Divorced/Separated/Married,18,2404,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0278,49,Male,Divorced/Separated,12,1262,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0279,32,Female,Divorced/Separated/Married,6,4611,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0280,29,Male,Single,24,1901,Existing credits paid back duly till now,Radio/Television,Rent,1,1,1
+BANK_0281,23,Male,Single,15,3368,Critical account / other credits existing,Car (used),Rent,2,1,1
+BANK_0282,50,Male,Single,12,1574,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0283,49,Male,Single,18,1445,All credits at this bank paid back duly,Radio/Television,Own,1,1,1
+BANK_0284,63,Male,Single,15,1520,Critical account / other credits existing,Furniture/Equipment,Own,1,1,1
+BANK_0285,37,Male,Divorced/Separated,24,3878,Critical account / other credits existing,Car (new),Own,1,1,1
+BANK_0286,35,Female,Divorced/Separated/Married,47,10722,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0287,26,Male,Single,48,4788,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0288,31,Male,Single,48,7582,Delay in paying off in past,Others,For Free,1,1,1
+BANK_0289,49,Female,Divorced/Separated/Married,12,1092,Existing credits paid back duly till now,Radio/Television,Own,2,1,1
+BANK_0290,48,Male,Married/Widowed,24,1024,Delay in paying off in past,Radio/Television,Own,1,1,0
+BANK_0291,26,Male,Married/Widowed,12,1076,Existing credits paid back duly till now,Business,Own,1,0,1
+BANK_0292,28,Male,Married/Widowed,36,9398,Existing credits paid back duly till now,Car (used),Rent,1,1,0
+BANK_0293,44,Female,Divorced/Separated/Married,24,6419,Critical account / other credits existing,Car (used),For Free,2,1,1
+BANK_0294,56,Male,Single,42,4796,Critical account / other credits existing,Car (used),For Free,1,1,1
+BANK_0295,46,Male,Divorced/Separated,48,7629,Critical account / other credits existing,Business,Own,2,1,1
+BANK_0296,26,Female,Divorced/Separated/Married,48,9960,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0297,20,Female,Divorced/Separated/Married,12,4675,Existing credits paid back duly till now,Car (used),Rent,1,1,1
+BANK_0298,45,Male,Single,10,1287,Existing credits paid back duly till now,Car (new),Own,1,0,1
+BANK_0299,43,Male,Single,18,2515,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0300,32,Male,Single,21,2745,Critical account / other credits existing,Furniture/Equipment,Own,2,1,1
+BANK_0301,54,Female,Divorced/Separated/Married,6,672,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0302,42,Female,Divorced/Separated/Married,36,3804,No credits taken / all paid back duly,Radio/Television,Own,1,1,0
+BANK_0303,37,Male,Single,24,1344,Critical account / other credits existing,Car (new),Own,2,1,0
+BANK_0304,49,Male,Single,10,1038,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0305,44,Male,Single,48,10127,Critical account / other credits existing,Car (new),For Free,1,1,0
+BANK_0306,33,Male,Divorced/Separated,6,1543,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0307,24,Female,Divorced/Separated/Married,30,4811,Existing credits paid back duly till now,Car (used),Rent,1,1,1
+BANK_0308,33,Male,Married/Widowed,12,727,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0309,24,Female,Divorced/Separated/Married,8,1237,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0310,22,Male,Married/Widowed,9,276,Existing credits paid back duly till now,Car (new),Rent,1,1,1
+BANK_0311,40,Male,Single,48,5381,Existing credits paid back duly till now,Others,For Free,1,1,1
+BANK_0312,25,Male,Single,24,5511,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0313,26,Female,Divorced/Separated/Married,24,3749,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0314,25,Male,Married/Widowed,12,685,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0315,29,Male,Single,4,1494,Existing credits paid back duly till now,Car (new),Own,1,0,1
+BANK_0316,31,Male,Single,36,2746,All credits at this bank paid back duly,Furniture/Equipment,Own,1,1,0
+BANK_0317,38,Male,Single,12,708,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0318,48,Female,Divorced/Separated/Married,24,4351,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0319,32,Male,Single,12,701,Critical account / other credits existing,Education,Own,2,1,1
+BANK_0320,27,Female,Divorced/Separated/Married,15,3643,Delay in paying off in past,Furniture/Equipment,Own,2,1,1
+BANK_0321,28,Male,Married/Widowed,30,4249,Critical account / other credits existing,Car (new),Own,2,1,0
+BANK_0322,32,Male,Divorced/Separated,24,1938,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0323,34,Male,Single,24,2910,Existing credits paid back duly till now,Car (used),For Free,1,1,1
+BANK_0324,28,Male,Single,18,2659,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0325,36,Female,Divorced/Separated/Married,18,1028,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0326,39,Male,Single,8,3398,Critical account / other credits existing,Car (new),Own,2,0,1
+BANK_0327,49,Male,Single,12,5801,Critical account / other credits existing,Furniture/Equipment,Rent,1,1,1
+BANK_0328,34,Female,Divorced/Separated/Married,24,1525,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0329,31,Male,Single,36,4473,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0330,28,Male,Single,6,1068,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0331,75,Male,Single,24,6615,Critical account / other credits existing,Car (used),For Free,2,1,1
+BANK_0332,30,Female,Divorced/Separated/Married,18,1864,Critical account / other credits existing,Education,Own,2,1,0
+BANK_0333,24,Female,Divorced/Separated/Married,60,7408,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0334,24,Female,Divorced/Separated/Married,48,11590,Critical account / other credits existing,Car (used),Rent,2,1,0
+BANK_0335,23,Male,Single,24,4110,No credits taken / all paid back duly,Furniture/Equipment,Rent,2,1,0
+BANK_0336,44,Male,Divorced/Separated,6,3384,Critical account / other credits existing,Furniture/Equipment,Rent,1,1,0
+BANK_0337,23,Female,Divorced/Separated/Married,13,2101,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0338,24,Female,Divorced/Separated/Married,15,1275,Existing credits paid back duly till now,Domestic Appliances,Rent,1,1,0
+BANK_0339,28,Male,Single,24,4169,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0340,31,Male,Divorced/Separated,10,1521,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0341,24,Female,Divorced/Separated/Married,24,5743,Critical account / other credits existing,Education,For Free,2,1,1
+BANK_0342,26,Female,Divorced/Separated/Married,21,3599,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,1
+BANK_0343,25,Male,Married/Widowed,18,3213,Existing credits paid back duly till now,Radio/Television,Rent,1,1,1
+BANK_0344,33,Male,Single,18,4439,Existing credits paid back duly till now,Business,Own,1,1,1
+BANK_0345,37,Male,Single,10,3949,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0346,43,Female,Divorced/Separated/Married,15,1459,Critical account / other credits existing,Radio/Television,Own,1,1,1
+BANK_0347,23,Male,Single,13,882,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0348,23,Female,Divorced/Separated/Married,24,3758,Existing credits paid back duly till now,Radio/Television,Rent,1,1,1
+BANK_0349,34,Male,Single,6,1743,Delay in paying off in past,Business,Own,2,1,1
+BANK_0350,32,Male,Single,9,1136,Critical account / other credits existing,Education,For Free,2,1,0
+BANK_0351,23,Female,Divorced/Separated/Married,9,1236,Existing credits paid back duly till now,Domestic Appliances,Rent,1,1,1
+BANK_0352,29,Female,Divorced/Separated/Married,9,959,Existing credits paid back duly till now,Furniture/Equipment,Own,1,0,0
+BANK_0353,38,Male,Single,18,3229,Critical account / other credits existing,Car (used),Own,1,1,1
+BANK_0354,28,Male,Single,12,6199,No credits taken / all paid back duly,Radio/Television,Rent,2,1,0
+BANK_0355,46,Male,Single,10,727,Existing credits paid back duly till now,Education,For Free,1,1,1
+BANK_0356,23,Male,Single,24,1246,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0357,49,Male,Single,12,2331,Critical account / other credits existing,Radio/Television,Own,1,1,1
+BANK_0358,26,Male,Single,36,4463,Delay in paying off in past,Radio/Television,Own,2,1,0
+BANK_0359,28,Male,Married/Widowed,12,776,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0360,23,Female,Divorced/Separated/Married,30,2406,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,0
+BANK_0361,61,Male,Single,18,1239,Existing credits paid back duly till now,Education,For Free,1,1,1
+BANK_0362,37,Male,Single,12,3399,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0363,36,Female,Divorced/Separated/Married,12,2247,Delay in paying off in past,Car (new),Own,2,1,1
+BANK_0364,21,Male,Married/Widowed,6,1766,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,1
+BANK_0365,25,Male,Single,18,2473,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0366,36,Male,Single,12,1542,Existing credits paid back duly till now,Business,Own,1,1,1
+BANK_0367,27,Male,Single,18,3850,Critical account / other credits existing,Car (used),Own,2,1,1
+BANK_0368,22,Female,Divorced/Separated/Married,18,3650,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,1
+BANK_0369,42,Male,Single,36,3446,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0370,40,Female,Divorced/Separated/Married,18,3001,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,1
+BANK_0371,36,Male,Single,36,3079,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0372,33,Male,Single,18,6070,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0373,23,Female,Divorced/Separated/Married,10,2146,Critical account / other credits existing,Furniture/Equipment,Rent,2,1,1
+BANK_0374,63,Male,Single,60,13756,Critical account / other credits existing,Car (new),For Free,1,1,1
+BANK_0375,60,Female,Divorced/Separated/Married,60,14782,All credits at this bank paid back duly,Others,For Free,2,1,0
+BANK_0376,37,Female,Divorced/Separated/Married,48,7685,All credits at this bank paid back duly,Business,Rent,1,1,0
+BANK_0377,34,Male,Married/Widowed,18,2320,Delay in paying off in past,Radio/Television,Own,2,1,1
+BANK_0378,36,Male,Single,7,846,Delay in paying off in past,Radio/Television,For Free,1,1,1
+BANK_0379,57,Male,Single,36,14318,Existing credits paid back duly till now,Car (new),For Free,1,1,0
+BANK_0380,52,Female,Divorced/Separated/Married,6,362,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0381,39,Male,Single,20,2212,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0382,38,Female,Divorced/Separated/Married,18,12976,Existing credits paid back duly till now,Car (used),For Free,1,1,0
+BANK_0383,25,Female,Divorced/Separated/Married,22,1283,Existing credits paid back duly till now,Car (new),Rent,1,1,1
+BANK_0384,26,Male,Single,12,1330,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0385,26,Male,Single,30,4272,Delay in paying off in past,Business,Own,2,1,1
+BANK_0386,25,Female,Divorced/Separated/Married,18,2238,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0387,21,Female,Divorced/Separated/Married,18,1126,Existing credits paid back duly till now,Radio/Television,Rent,1,1,1
+BANK_0388,40,Male,Single,18,7374,Critical account / other credits existing,Furniture/Equipment,Own,2,1,1
+BANK_0389,27,Male,Single,15,2326,Critical account / other credits existing,Business,Own,1,1,1
+BANK_0390,27,Female,Divorced/Separated/Married,9,1449,Existing credits paid back duly till now,Business,Own,2,1,1
+BANK_0391,30,Male,Married/Widowed,18,1820,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0392,19,Female,Divorced/Separated/Married,12,983,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,1
+BANK_0393,39,Male,Single,36,3249,Existing credits paid back duly till now,Car (new),For Free,1,1,1
+BANK_0394,31,Female,Divorced/Separated/Married,6,1957,Critical account / other credits existing,Radio/Television,Own,1,1,1
+BANK_0395,31,Male,Single,9,2406,Critical account / other credits existing,Furniture/Equipment,Own,1,1,1
+BANK_0396,32,Male,Single,39,11760,Delay in paying off in past,Education,Rent,1,1,1
+BANK_0397,55,Female,Divorced/Separated/Married,12,2578,Existing credits paid back duly till now,Furniture/Equipment,For Free,1,1,1
+BANK_0398,46,Male,Married/Widowed,36,2348,Critical account / other credits existing,Furniture/Equipment,Own,2,1,1
+BANK_0399,46,Male,Divorced/Separated,12,1223,Existing credits paid back duly till now,Car (new),Rent,2,1,0
+BANK_0400,43,Female,Divorced/Separated/Married,24,1516,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0401,39,Male,Married/Widowed,18,1473,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0402,28,Male,Married/Widowed,18,1887,Critical account / other credits existing,Business,Own,2,1,1
+BANK_0403,27,Male,Single,24,8648,Delay in paying off in past,Business,Own,2,1,0
+BANK_0404,27,Male,Single,14,802,Delay in paying off in past,Car (new),Own,2,1,1
+BANK_0405,43,Male,Single,18,2899,Delay in paying off in past,Car (new),Own,1,1,1
+BANK_0406,22,Male,Married/Widowed,24,2039,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0407,43,Male,Single,24,2197,Critical account / other credits existing,Car (used),Own,2,1,1
+BANK_0408,27,Male,Married/Widowed,15,1053,Existing credits paid back duly till now,Radio/Television,Own,1,0,1
+BANK_0409,26,Male,Divorced/Separated,24,3235,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0410,28,Male,Married/Widowed,12,939,Critical account / other credits existing,Car (new),Own,3,1,0
+BANK_0411,20,Female,Divorced/Separated/Married,24,1967,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0412,35,Male,Single,33,7253,Critical account / other credits existing,Car (used),Own,2,1,1
+BANK_0413,42,Male,Single,12,2292,Critical account / other credits existing,Business,Own,2,1,0
+BANK_0414,40,Male,Single,10,1597,Existing credits paid back duly till now,Car (new),Rent,1,0,1
+BANK_0415,35,Female,Divorced/Separated/Married,24,1381,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0416,35,Male,Single,36,5842,Critical account / other credits existing,Car (used),Own,2,1,1
+BANK_0417,33,Male,Single,12,2579,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0418,23,Female,Divorced/Separated/Married,18,8471,Delay in paying off in past,Education,Rent,2,1,1
+BANK_0419,31,Female,Divorced/Separated/Married,21,2782,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0420,33,Female,Divorced/Separated/Married,18,1042,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0421,20,Female,Divorced/Separated/Married,15,3186,Existing credits paid back duly till now,Car (new),Rent,1,1,1
+BANK_0422,30,Male,Single,12,2028,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0423,47,Male,Single,12,958,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0424,34,Male,Single,21,1591,Delay in paying off in past,Furniture/Equipment,Own,2,1,1
+BANK_0425,25,Female,Divorced/Separated/Married,12,2762,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0426,21,Male,Married/Widowed,18,2779,Existing credits paid back duly till now,Car (used),Rent,1,1,1
+BANK_0427,29,Male,Single,28,2743,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0428,46,Male,Single,18,1149,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0429,20,Male,Single,9,1313,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0430,55,Female,Divorced/Separated/Married,18,1190,Critical account / other credits existing,Repairs,For Free,3,1,0
+BANK_0431,74,Male,Single,5,3448,Existing credits paid back duly till now,Business,Own,1,1,1
+BANK_0432,29,Male,Single,24,11328,Existing credits paid back duly till now,Others,Own,2,1,0
+BANK_0433,36,Male,Single,6,1872,Critical account / other credits existing,Furniture/Equipment,For Free,3,1,1
+BANK_0434,33,Male,Divorced/Separated,24,2058,Critical account / other credits existing,Repairs,Own,2,1,1
+BANK_0435,25,Male,Single,9,2136,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0436,25,Male,Married/Widowed,12,1484,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0437,23,Male,Married/Widowed,6,660,Existing credits paid back duly till now,Repairs,Rent,1,1,1
+BANK_0438,37,Female,Divorced/Separated/Married,24,1287,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0439,65,Male,Single,42,3394,Critical account / other credits existing,Repairs,Own,2,1,1
+BANK_0440,26,Female,Divorced/Separated/Married,12,609,All credits at this bank paid back duly,Business,Own,1,1,0
+BANK_0441,39,Male,Single,12,1884,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0442,30,Female,Divorced/Separated/Married,12,1620,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0443,29,Male,Single,20,2629,Delay in paying off in past,Others,Own,2,1,1
+BANK_0444,41,Male,Single,12,719,Existing credits paid back duly till now,Education,Own,1,1,0
+BANK_0445,30,Female,Divorced/Separated/Married,48,5096,Critical account / other credits existing,Furniture/Equipment,Own,1,1,0
+BANK_0446,41,Female,Divorced/Separated/Married,9,1244,Critical account / other credits existing,Education,Rent,2,1,1
+BANK_0447,34,Female,Divorced/Separated/Married,36,1842,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0448,35,Male,Single,7,2576,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0449,55,Female,Divorced/Separated/Married,12,1424,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0450,61,Male,Married/Widowed,15,1512,Delay in paying off in past,Repairs,Own,2,1,0
+BANK_0451,30,Male,Single,36,11054,Critical account / other credits existing,Car (used),Own,1,1,1
+BANK_0452,29,Female,Divorced/Separated/Married,6,518,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0453,34,Male,Single,12,2759,No credits taken / all paid back duly,Furniture/Equipment,Own,2,1,1
+BANK_0454,35,Male,Single,24,2670,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0455,31,Male,Single,24,4817,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0456,29,Female,Divorced/Separated/Married,24,2679,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0457,36,Male,Single,11,3905,Critical account / other credits existing,Car (new),Rent,2,1,1
+BANK_0458,35,Male,Single,12,3386,Existing credits paid back duly till now,Car (used),For Free,1,1,0
+BANK_0459,27,Female,Divorced/Separated/Married,6,343,Existing credits paid back duly till now,Domestic Appliances,Own,1,1,1
+BANK_0460,32,Male,Single,18,4594,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0461,37,Male,Single,36,3620,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0462,36,Male,Single,15,1721,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0463,34,Female,Divorced/Separated/Married,12,3017,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,1
+BANK_0464,38,Male,Single,12,754,Existing credits paid back duly till now,Retraining,Own,2,1,1
+BANK_0465,34,Male,Single,18,1950,Existing credits paid back duly till now,Business,Own,2,1,1
+BANK_0466,63,Male,Single,24,2924,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0467,29,Female,Divorced/Separated/Married,24,1659,Delay in paying off in past,Radio/Television,Rent,1,1,0
+BANK_0468,32,Male,Single,48,7238,Delay in paying off in past,Radio/Television,Own,2,1,1
+BANK_0469,26,Female,Divorced/Separated/Married,33,2764,Delay in paying off in past,Business,Own,2,1,1
+BANK_0470,35,Male,Single,24,4679,Delay in paying off in past,Car (used),Own,2,1,1
+BANK_0471,22,Male,Married/Widowed,24,3092,Existing credits paid back duly till now,Radio/Television,Rent,1,1,0
+BANK_0472,23,Female,Divorced/Separated/Married,6,448,Existing credits paid back duly till now,Education,Own,1,1,0
+BANK_0473,28,Male,Single,9,654,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0474,36,Male,Single,6,1238,Existing credits paid back duly till now,Retraining,Own,1,1,1
+BANK_0475,33,Male,Married/Widowed,18,1245,Critical account / other credits existing,Radio/Television,Own,1,1,0
+BANK_0476,26,Female,Divorced/Separated/Married,18,3114,No credits taken / all paid back duly,Furniture/Equipment,Rent,1,1,0
+BANK_0477,24,Male,Single,39,2569,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0478,25,Male,Single,24,5152,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0479,39,Male,Single,12,1037,Existing credits paid back duly till now,Business,Own,1,1,1
+BANK_0480,44,Male,Single,15,1478,Critical account / other credits existing,Furniture/Equipment,Own,2,1,1
+BANK_0481,23,Female,Divorced/Separated/Married,12,3573,Critical account / other credits existing,Radio/Television,Own,1,1,1
+BANK_0482,26,Male,Single,24,1201,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0483,57,Female,Divorced/Separated/Married,30,3622,Existing credits paid back duly till now,Furniture/Equipment,Rent,2,1,1
+BANK_0484,30,Female,Divorced/Separated/Married,15,960,Delay in paying off in past,Furniture/Equipment,Own,2,1,1
+BANK_0485,44,Male,Single,12,1163,Critical account / other credits existing,Car (new),Own,1,1,1
+BANK_0486,47,Male,Single,6,1209,Delay in paying off in past,Car (new),Own,1,1,0
+BANK_0487,52,Male,Single,12,3077,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0488,62,Female,Divorced/Separated/Married,24,3757,Existing credits paid back duly till now,Car (new),For Free,1,1,1
+BANK_0489,35,Male,Single,10,1418,Existing credits paid back duly till now,Car (new),Rent,1,0,1
+BANK_0490,26,Male,Single,6,3518,Existing credits paid back duly till now,Car (new),Rent,1,1,1
+BANK_0491,26,Male,Single,12,1934,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0492,42,Female,Divorced/Separated/Married,27,8318,No credits taken / all paid back duly,Business,For Free,2,1,0
+BANK_0493,27,Female,Divorced/Separated/Married,6,1237,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0494,38,Male,Single,6,368,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0495,39,Male,Single,12,2122,Critical account / other credits existing,Car (new),Rent,2,0,1
+BANK_0496,20,Male,Married/Widowed,24,2996,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0497,29,Male,Single,36,9034,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,0
+BANK_0498,40,Male,Single,24,1585,Critical account / other credits existing,Furniture/Equipment,Own,2,1,1
+BANK_0499,32,Male,Married/Widowed,18,1301,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0500,28,Male,Divorced/Separated,6,1323,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0501,27,Female,Divorced/Separated/Married,24,3123,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0502,42,Male,Single,36,5493,Existing credits paid back duly till now,Car (used),For Free,1,1,1
+BANK_0503,49,Male,Divorced/Separated,9,1126,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0504,38,Male,Single,24,1216,Critical account / other credits existing,Radio/Television,Own,2,1,0
+BANK_0505,24,Female,Divorced/Separated/Married,24,1207,Existing credits paid back duly till now,Car (new),Rent,1,1,0
+BANK_0506,27,Male,Single,10,1309,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0507,36,Male,Single,15,2360,Critical account / other credits existing,Car (used),Own,1,1,1
+BANK_0508,34,Male,Single,15,6850,All credits at this bank paid back duly,Car (new),Own,1,1,0
+BANK_0509,28,Male,Married/Widowed,24,1413,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0510,45,Male,Single,39,8588,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0511,26,Male,Single,12,759,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0512,32,Male,Single,36,4686,Existing credits paid back duly till now,Car (used),For Free,1,1,1
+BANK_0513,26,Male,Single,15,2687,Existing credits paid back duly till now,Business,Rent,1,1,1
+BANK_0514,20,Male,Married/Widowed,12,585,Delay in paying off in past,Radio/Television,Rent,2,1,1
+BANK_0515,54,Male,Single,24,2255,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0516,37,Female,Divorced/Separated/Married,6,609,Critical account / other credits existing,Car (new),Own,2,0,1
+BANK_0517,40,Male,Single,6,1361,Critical account / other credits existing,Car (new),Own,1,0,1
+BANK_0518,23,Female,Divorced/Separated/Married,36,7127,Critical account / other credits existing,Furniture/Equipment,Rent,2,1,0
+BANK_0519,43,Male,Single,6,1203,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0520,36,Male,Single,6,700,Critical account / other credits existing,Radio/Television,For Free,2,1,1
+BANK_0521,44,Male,Single,24,5507,Critical account / other credits existing,Repairs,For Free,2,1,1
+BANK_0522,24,Female,Divorced/Separated/Married,18,3190,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0523,53,Male,Single,48,7119,No credits taken / all paid back duly,Furniture/Equipment,For Free,2,1,0
+BANK_0524,23,Female,Divorced/Separated/Married,24,3488,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0525,26,Female,Divorced/Separated/Married,18,1113,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0526,30,Male,Single,26,7966,Existing credits paid back duly till now,Car (used),Own,2,1,1
+BANK_0527,31,Female,Divorced/Separated/Married,15,1532,Critical account / other credits existing,Education,Own,1,1,1
+BANK_0528,42,Male,Single,4,1503,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0529,31,Male,Divorced/Separated,36,2302,Existing credits paid back duly till now,Radio/Television,Rent,1,1,0
+BANK_0530,41,Male,Single,6,662,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0531,32,Male,Single,36,2273,Existing credits paid back duly till now,Education,Own,2,1,1
+BANK_0532,28,Female,Divorced/Separated/Married,15,2631,Existing credits paid back duly till now,Car (new),Rent,2,1,0
+BANK_0533,41,Male,Married/Widowed,12,1503,Delay in paying off in past,Car (used),Rent,1,1,1
+BANK_0534,26,Male,Married/Widowed,24,1311,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0535,25,Male,Single,24,3105,Existing credits paid back duly till now,Radio/Television,Own,2,1,1
+BANK_0536,33,Male,Divorced/Separated,21,2319,Critical account / other credits existing,Education,Rent,1,1,0
+BANK_0537,75,Female,Divorced/Separated/Married,6,1374,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0538,37,Female,Divorced/Separated/Married,18,3612,Critical account / other credits existing,Furniture/Equipment,Own,1,1,1
+BANK_0539,42,Male,Single,48,7763,Existing credits paid back duly till now,Car (new),For Free,1,1,0
+BANK_0540,45,Female,Divorced/Separated/Married,18,3049,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0541,23,Male,Married/Widowed,12,1534,Existing credits paid back duly till now,Radio/Television,Rent,1,1,0
+BANK_0542,60,Male,Single,24,2032,Delay in paying off in past,Car (new),For Free,2,1,1
+BANK_0543,31,Male,Single,30,6350,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0544,34,Male,Single,18,2864,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0545,61,Male,Single,12,1255,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0546,43,Male,Single,24,1333,Delay in paying off in past,Car (new),For Free,2,1,0
+BANK_0547,37,Female,Divorced/Separated/Married,24,2022,Critical account / other credits existing,Car (new),Own,1,1,1
+BANK_0548,32,Male,Single,24,1552,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0549,24,Female,Divorced/Separated/Married,12,626,All credits at this bank paid back duly,Radio/Television,Own,1,1,0
+BANK_0550,35,Male,Single,48,8858,Critical account / other credits existing,Car (used),For Free,2,1,1
+BANK_0551,23,Female,Divorced/Separated/Married,12,996,Critical account / other credits existing,Repairs,Own,2,1,1
+BANK_0552,45,Male,Single,6,1750,All credits at this bank paid back duly,Radio/Television,Own,1,1,1
+BANK_0553,34,Male,Married/Widowed,48,6999,Existing credits paid back duly till now,Radio/Television,Own,2,1,0
+BANK_0554,27,Male,Single,12,1995,Critical account / other credits existing,Car (new),Own,1,1,1
+BANK_0555,67,Female,Divorced/Separated/Married,9,1199,Existing credits paid back duly till now,Education,Own,2,1,1
+BANK_0556,22,Male,Single,12,1331,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0557,28,Female,Divorced/Separated/Married,18,2278,No credits taken / all paid back duly,Car (new),Own,2,1,0
+BANK_0558,29,Female,Divorced/Separated/Married,21,5003,No credits taken / all paid back duly,Car (new),Own,2,1,0
+BANK_0559,27,Male,Single,24,3552,All credits at this bank paid back duly,Furniture/Equipment,Own,1,1,0
+BANK_0560,31,Male,Single,18,1928,Critical account / other credits existing,Furniture/Equipment,Own,2,1,0
+BANK_0561,49,Male,Single,24,2964,Existing credits paid back duly till now,Car (used),For Free,1,1,1
+BANK_0562,24,Male,Single,24,1546,All credits at this bank paid back duly,Radio/Television,Rent,1,1,0
+BANK_0563,29,Female,Divorced/Separated/Married,6,683,Delay in paying off in past,Radio/Television,Own,1,1,1
+BANK_0564,37,Male,Single,36,12389,Existing credits paid back duly till now,Car (new),For Free,1,1,0
+BANK_0565,37,Male,Single,24,4712,Delay in paying off in past,Business,Own,2,1,1
+BANK_0566,23,Female,Divorced/Separated/Married,24,1553,Delay in paying off in past,Radio/Television,Rent,2,1,1
+BANK_0567,36,Male,Divorced/Separated,12,1372,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0568,34,Male,Single,24,2578,Critical account / other credits existing,Radio/Television,Own,1,1,1
+BANK_0569,41,Male,Single,48,3979,Existing credits paid back duly till now,Radio/Television,Own,2,1,1
+BANK_0570,31,Female,Divorced/Separated/Married,48,6758,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0571,23,Female,Divorced/Separated/Married,24,3234,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,0
+BANK_0572,38,Male,Single,30,5954,Critical account / other credits existing,Radio/Television,Own,1,1,1
+BANK_0573,26,Female,Divorced/Separated/Married,24,5433,Existing credits paid back duly till now,Car (used),Rent,1,1,1
+BANK_0574,22,Female,Divorced/Separated/Married,15,806,Existing credits paid back duly till now,Business,Own,1,1,1
+BANK_0575,27,Male,Single,9,1082,Existing credits paid back duly till now,Radio/Television,Own,2,1,1
+BANK_0576,24,Female,Divorced/Separated/Married,15,2788,Critical account / other credits existing,Furniture/Equipment,Own,2,1,1
+BANK_0577,27,Female,Divorced/Separated/Married,12,2930,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0578,33,Female,Divorced/Separated/Married,24,1927,Critical account / other credits existing,Education,Own,2,1,1
+BANK_0579,27,Male,Divorced/Separated,36,2820,Critical account / other credits existing,Car (new),Own,2,1,0
+BANK_0580,27,Male,Married/Widowed,24,937,Existing credits paid back duly till now,Retraining,Own,2,1,1
+BANK_0581,30,Male,Single,18,1056,Critical account / other credits existing,Car (new),Own,2,1,0
+BANK_0582,49,Male,Single,12,3124,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0583,26,Female,Divorced/Separated/Married,9,1388,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,1
+BANK_0584,33,Male,Single,36,2384,Existing credits paid back duly till now,Repairs,Rent,1,1,0
+BANK_0585,52,Female,Divorced/Separated/Married,12,2133,Existing credits paid back duly till now,Car (new),For Free,1,1,1
+BANK_0586,20,Female,Divorced/Separated/Married,18,2039,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,0
+BANK_0587,36,Male,Single,9,2799,Critical account / other credits existing,Car (new),Rent,2,1,1
+BANK_0588,21,Male,Single,12,1289,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0589,47,Male,Married/Widowed,18,1217,Existing credits paid back duly till now,Domestic Appliances,Own,1,1,0
+BANK_0590,60,Male,Single,12,2246,Critical account / other credits existing,Furniture/Equipment,Own,2,1,0
+BANK_0591,58,Female,Divorced/Separated/Married,12,385,Critical account / other credits existing,Radio/Television,Own,4,1,1
+BANK_0592,42,Female,Divorced/Separated/Married,24,1965,Delay in paying off in past,Car (new),Rent,2,1,1
+BANK_0593,36,Female,Divorced/Separated/Married,21,1572,Existing credits paid back duly till now,Business,Own,1,1,1
+BANK_0594,20,Female,Divorced/Separated/Married,24,2718,Existing credits paid back duly till now,Car (new),Rent,1,1,0
+BANK_0595,40,Male,Single,24,1358,All credits at this bank paid back duly,Others,Own,1,1,0
+BANK_0596,32,Female,Divorced/Separated/Married,6,931,All credits at this bank paid back duly,Car (new),Own,1,1,0
+BANK_0597,23,Female,Divorced/Separated/Married,24,1442,Existing credits paid back duly till now,Car (new),Rent,2,1,0
+BANK_0598,36,Male,Single,24,4241,No credits taken / all paid back duly,Business,Own,3,1,0
+BANK_0599,31,Male,Single,18,2775,Critical account / other credits existing,Car (new),Own,2,1,0
+BANK_0600,32,Male,Single,24,3863,Delay in paying off in past,Business,For Free,1,1,1
+BANK_0601,45,Female,Divorced/Separated/Married,7,2329,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0602,30,Female,Divorced/Separated/Married,9,918,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0603,34,Female,Divorced/Separated/Married,24,1837,All credits at this bank paid back duly,Education,For Free,1,1,0
+BANK_0604,28,Female,Divorced/Separated/Married,36,3349,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0605,23,Female,Divorced/Separated/Married,10,1275,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0606,22,Male,Single,24,2828,All credits at this bank paid back duly,Furniture/Equipment,Own,1,1,1
+BANK_0607,74,Male,Single,24,4526,Critical account / other credits existing,Business,Own,1,1,1
+BANK_0608,50,Female,Divorced/Separated/Married,36,2671,Existing credits paid back duly till now,Radio/Television,For Free,1,1,0
+BANK_0609,33,Male,Single,18,2051,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0610,45,Male,Single,15,1300,Existing credits paid back duly till now,Car (used),For Free,1,1,1
+BANK_0611,22,Female,Divorced/Separated/Married,12,741,Existing credits paid back duly till now,Domestic Appliances,Own,1,1,0
+BANK_0612,48,Female,Divorced/Separated/Married,10,1240,Existing credits paid back duly till now,Car (new),For Free,1,1,0
+BANK_0613,29,Female,Divorced/Separated/Married,21,3357,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0614,22,Female,Divorced/Separated/Married,24,3632,All credits at this bank paid back duly,Car (used),Rent,1,0,1
+BANK_0615,22,Female,Divorced/Separated/Married,18,1808,Delay in paying off in past,Furniture/Equipment,Own,1,1,0
+BANK_0616,48,Male,Single,48,12204,No credits taken / all paid back duly,Business,Own,1,1,1
+BANK_0617,27,Male,Single,60,9157,Delay in paying off in past,Radio/Television,For Free,1,1,1
+BANK_0618,37,Male,Single,6,3676,Critical account / other credits existing,Car (new),Rent,3,1,1
+BANK_0619,21,Female,Divorced/Separated/Married,30,3441,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,0
+BANK_0620,49,Male,Divorced/Separated,12,640,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0621,27,Male,Single,21,3652,Critical account / other credits existing,Business,Own,2,1,1
+BANK_0622,32,Male,Single,18,1530,Critical account / other credits existing,Car (new),Own,2,1,0
+BANK_0623,38,Male,Divorced/Separated,48,3914,Existing credits paid back duly till now,Business,Own,1,1,0
+BANK_0624,22,Female,Divorced/Separated/Married,12,1858,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,1
+BANK_0625,65,Male,Single,18,2600,Existing credits paid back duly till now,Radio/Television,For Free,2,1,0
+BANK_0626,35,Male,Single,15,1979,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0627,41,Male,Single,6,2116,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0628,29,Male,Single,9,1437,All credits at this bank paid back duly,Car (new),Own,1,1,0
+BANK_0629,36,Male,Single,42,4042,Critical account / other credits existing,Furniture/Equipment,Own,2,1,1
+BANK_0630,64,Male,Single,9,3832,Existing credits paid back duly till now,Education,Own,1,1,1
+BANK_0631,28,Female,Divorced/Separated/Married,24,3660,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0632,44,Male,Single,18,1553,All credits at this bank paid back duly,Furniture/Equipment,Own,1,1,0
+BANK_0633,23,Male,Single,15,1444,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0634,19,Female,Divorced/Separated/Married,9,1980,Existing credits paid back duly till now,Furniture/Equipment,Rent,2,1,0
+BANK_0635,25,Female,Divorced/Separated/Married,24,1355,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0636,47,Male,Single,12,1393,Existing credits paid back duly till now,Education,Own,3,1,1
+BANK_0637,28,Female,Divorced/Separated/Married,24,1376,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0638,21,Male,Single,60,15653,Delay in paying off in past,Radio/Television,Own,2,1,1
+BANK_0639,34,Female,Divorced/Separated/Married,12,1493,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0640,26,Male,Single,42,4370,Delay in paying off in past,Radio/Television,Own,2,1,0
+BANK_0641,27,Female,Divorced/Separated/Married,18,750,Existing credits paid back duly till now,Education,Own,1,1,0
+BANK_0642,38,Male,Single,15,1308,Existing credits paid back duly till now,Repairs,Own,2,1,1
+BANK_0643,40,Male,Single,15,4623,Existing credits paid back duly till now,Education,Own,1,1,0
+BANK_0644,33,Male,Married/Widowed,24,1851,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0645,32,Male,Married/Widowed,18,1880,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0646,27,Male,Single,36,7980,Delay in paying off in past,Business,Rent,2,1,0
+BANK_0647,32,Male,Divorced/Separated,30,4583,No credits taken / all paid back duly,Furniture/Equipment,Own,2,1,1
+BANK_0648,26,Female,Divorced/Separated/Married,12,1386,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0649,38,Male,Single,24,947,Existing credits paid back duly till now,Car (new),For Free,1,1,0
+BANK_0650,40,Male,Single,12,684,Existing credits paid back duly till now,Education,Rent,1,1,0
+BANK_0651,50,Male,Single,48,7476,Existing credits paid back duly till now,Education,For Free,1,1,1
+BANK_0652,37,Male,Single,12,1922,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0653,45,Male,Single,24,2303,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0654,42,Male,Single,36,8086,Delay in paying off in past,Car (new),Own,4,1,0
+BANK_0655,35,Male,Single,24,2346,Critical account / other credits existing,Car (used),Own,2,1,1
+BANK_0656,22,Male,Single,14,3973,Existing credits paid back duly till now,Car (new),For Free,1,1,1
+BANK_0657,41,Male,Single,12,888,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0658,37,Male,Single,48,10222,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0659,28,Female,Divorced/Separated/Married,30,4221,No credits taken / all paid back duly,Business,Own,2,1,1
+BANK_0660,41,Male,Single,18,6361,Critical account / other credits existing,Furniture/Equipment,Own,1,1,1
+BANK_0661,23,Male,Married/Widowed,12,1297,Existing credits paid back duly till now,Radio/Television,Rent,1,1,1
+BANK_0662,23,Male,Married/Widowed,12,900,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0663,50,Male,Single,21,2241,Existing credits paid back duly till now,Furniture/Equipment,Own,2,1,1
+BANK_0664,35,Male,Single,6,1050,Delay in paying off in past,Furniture/Equipment,Own,2,1,1
+BANK_0665,50,Female,Divorced/Separated/Married,6,1047,Critical account / other credits existing,Education,Own,1,1,1
+BANK_0666,27,Male,Single,24,6314,Critical account / other credits existing,Others,Own,2,1,1
+BANK_0667,34,Male,Single,30,3496,All credits at this bank paid back duly,Furniture/Equipment,Own,1,1,1
+BANK_0668,27,Female,Divorced/Separated/Married,48,3609,All credits at this bank paid back duly,Business,Own,1,1,1
+BANK_0669,43,Male,Single,12,4843,Critical account / other credits existing,Car (new),Rent,2,1,0
+BANK_0670,47,Male,Single,30,3017,Critical account / other credits existing,Radio/Television,Own,1,1,1
+BANK_0671,27,Male,Single,24,4139,Critical account / other credits existing,Business,Own,2,1,1
+BANK_0672,31,Male,Single,36,5742,Existing credits paid back duly till now,Business,Own,2,1,1
+BANK_0673,42,Male,Single,60,10366,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0674,24,Male,Married/Widowed,6,2080,Critical account / other credits existing,Car (new),Own,1,1,1
+BANK_0675,41,Male,Single,21,2580,Delay in paying off in past,Business,Own,1,1,0
+BANK_0676,26,Female,Divorced/Separated/Married,30,4530,Critical account / other credits existing,Radio/Television,Rent,1,1,1
+BANK_0677,33,Male,Single,24,5150,Critical account / other credits existing,Furniture/Equipment,Own,1,1,1
+BANK_0678,24,Male,Married/Widowed,72,5595,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0679,64,Male,Single,24,2384,Existing credits paid back duly till now,Radio/Television,Rent,1,1,1
+BANK_0680,26,Female,Divorced/Separated/Married,18,1453,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0681,56,Female,Divorced/Separated/Married,6,1538,Existing credits paid back duly till now,Education,Own,1,1,1
+BANK_0682,37,Male,Single,12,2279,Existing credits paid back duly till now,Radio/Television,For Free,1,1,1
+BANK_0683,33,Male,Married/Widowed,15,1478,Delay in paying off in past,Radio/Television,Own,2,1,1
+BANK_0684,47,Male,Married/Widowed,24,5103,Critical account / other credits existing,Radio/Television,For Free,3,1,1
+BANK_0685,31,Male,Single,36,9857,Delay in paying off in past,Business,Own,2,1,1
+BANK_0686,34,Male,Single,60,6527,Existing credits paid back duly till now,Car (new),For Free,1,1,1
+BANK_0687,27,Male,Single,10,1347,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0688,30,Male,Single,36,2862,Delay in paying off in past,Car (new),For Free,1,1,1
+BANK_0689,35,Male,Single,9,2753,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0690,31,Male,Single,12,3651,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0691,25,Male,Divorced/Separated,15,975,Critical account / other credits existing,Furniture/Equipment,Own,2,1,1
+BANK_0692,25,Female,Divorced/Separated/Married,15,2631,Existing credits paid back duly till now,Repairs,Own,1,1,1
+BANK_0693,29,Male,Single,24,2896,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0694,44,Male,Single,6,4716,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0695,28,Male,Single,24,2284,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0696,50,Male,Single,6,1236,Existing credits paid back duly till now,Car (used),Rent,1,1,1
+BANK_0697,29,Male,Single,12,1103,Existing credits paid back duly till now,Radio/Television,Own,2,0,1
+BANK_0698,38,Female,Divorced/Separated/Married,12,926,Critical account / other credits existing,Car (new),Own,1,1,1
+BANK_0699,24,Male,Single,18,1800,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0700,40,Male,Single,15,1905,Existing credits paid back duly till now,Education,Rent,1,1,1
+BANK_0701,29,Female,Divorced/Separated/Married,12,1123,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,0
+BANK_0702,46,Male,Single,48,6331,Critical account / other credits existing,Car (used),For Free,2,1,0
+BANK_0703,47,Female,Divorced/Separated/Married,24,1377,Existing credits paid back duly till now,Radio/Television,For Free,1,1,1
+BANK_0704,41,Male,Single,30,2503,Delay in paying off in past,Business,Own,2,1,1
+BANK_0705,32,Female,Divorced/Separated/Married,27,2528,Existing credits paid back duly till now,Business,Own,1,1,1
+BANK_0706,35,Female,Divorced/Separated/Married,15,5324,Existing credits paid back duly till now,Car (new),For Free,1,1,1
+BANK_0707,24,Male,Single,48,6560,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0708,25,Female,Divorced/Separated/Married,12,2969,No credits taken / all paid back duly,Furniture/Equipment,Rent,2,1,0
+BANK_0709,25,Female,Divorced/Separated/Married,9,1206,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0710,37,Male,Single,9,2118,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0711,32,Male,Single,18,629,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0712,35,Female,Divorced/Separated/Married,6,1198,All credits at this bank paid back duly,Education,For Free,1,1,0
+BANK_0713,46,Male,Single,21,2476,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0714,25,Male,Single,9,1138,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0715,27,Male,Single,60,14027,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0716,63,Male,Single,30,7596,Critical account / other credits existing,Car (used),Own,2,1,1
+BANK_0717,40,Male,Single,30,3077,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0718,32,Male,Single,18,1505,Existing credits paid back duly till now,Radio/Television,For Free,1,1,1
+BANK_0719,31,Male,Single,24,3148,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0720,31,Male,Married/Widowed,20,6148,No credits taken / all paid back duly,Car (used),Own,2,1,1
+BANK_0721,34,Male,Single,9,1337,No credits taken / all paid back duly,Radio/Television,Own,2,1,0
+BANK_0722,24,Female,Divorced/Separated/Married,6,433,All credits at this bank paid back duly,Education,Rent,1,1,0
+BANK_0723,24,Female,Divorced/Separated/Married,12,1228,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0724,66,Female,Divorced/Separated/Married,9,790,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0725,21,Female,Divorced/Separated/Married,27,2570,Existing credits paid back duly till now,Car (new),Rent,1,1,0
+BANK_0726,41,Female,Divorced/Separated/Married,6,250,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0727,47,Male,Married/Widowed,15,1316,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0728,25,Female,Divorced/Separated/Married,18,1882,Existing credits paid back duly till now,Radio/Television,Rent,2,1,0
+BANK_0729,59,Female,Divorced/Separated/Married,48,6416,All credits at this bank paid back duly,Business,Rent,1,1,0
+BANK_0730,36,Male,Divorced/Separated,24,1275,Critical account / other credits existing,Business,Own,2,1,1
+BANK_0731,33,Male,Single,24,6403,Delay in paying off in past,Radio/Television,Own,1,1,1
+BANK_0732,21,Male,Single,24,1987,Existing credits paid back duly till now,Radio/Television,Rent,1,1,0
+BANK_0733,44,Female,Divorced/Separated/Married,8,760,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0734,28,Female,Divorced/Separated/Married,24,2603,Existing credits paid back duly till now,Car (used),Rent,1,1,1
+BANK_0735,37,Female,Divorced/Separated/Married,4,3380,Critical account / other credits existing,Car (new),Own,1,1,1
+BANK_0736,29,Female,Divorced/Separated/Married,36,3990,All credits at this bank paid back duly,Domestic Appliances,Own,1,1,1
+BANK_0737,23,Female,Divorced/Separated/Married,24,11560,Existing credits paid back duly till now,Car (used),Rent,2,1,0
+BANK_0738,35,Male,Single,18,4380,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0739,45,Male,Single,6,6761,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0740,26,Female,Divorced/Separated/Married,30,4280,No credits taken / all paid back duly,Business,Rent,2,1,0
+BANK_0741,32,Male,Single,24,2325,All credits at this bank paid back duly,Car (new),Own,1,1,1
+BANK_0742,23,Male,Single,10,1048,All credits at this bank paid back duly,Radio/Television,Own,1,1,1
+BANK_0743,41,Male,Single,21,3160,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0744,22,Male,Single,24,2483,All credits at this bank paid back duly,Furniture/Equipment,Own,1,1,1
+BANK_0745,30,Male,Single,39,14179,Critical account / other credits existing,Furniture/Equipment,Own,2,1,1
+BANK_0746,28,Male,Single,13,1797,Critical account / other credits existing,Business,Own,2,1,1
+BANK_0747,23,Female,Divorced/Separated/Married,15,2511,Existing credits paid back duly till now,Car (new),Rent,1,1,1
+BANK_0748,37,Female,Divorced/Separated/Married,12,1274,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0749,26,Male,Single,21,5248,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0750,33,Male,Single,15,3029,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0751,49,Female,Divorced/Separated/Married,6,428,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0752,23,Female,Divorced/Separated/Married,18,976,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0753,23,Female,Divorced/Separated/Married,12,841,Existing credits paid back duly till now,Business,Rent,1,1,1
+BANK_0754,25,Female,Divorced/Separated/Married,30,5771,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0755,55,Male,Single,12,1555,Delay in paying off in past,Repairs,For Free,2,1,0
+BANK_0756,32,Female,Divorced/Separated/Married,24,1285,Existing credits paid back duly till now,Car (new),Rent,1,1,0
+BANK_0757,74,Male,Single,6,1299,Critical account / other credits existing,Car (new),Own,3,0,1
+BANK_0758,39,Male,Single,15,1271,Critical account / other credits existing,Radio/Television,For Free,2,1,0
+BANK_0759,31,Male,Single,24,1393,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0760,35,Male,Single,12,691,Critical account / other credits existing,Car (new),Own,2,1,0
+BANK_0761,59,Female,Divorced/Separated/Married,15,5045,Critical account / other credits existing,Car (new),Own,1,1,1
+BANK_0762,24,Female,Divorced/Separated/Married,18,2124,Critical account / other credits existing,Furniture/Equipment,Rent,2,1,0
+BANK_0763,24,Male,Single,12,2214,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0764,30,Male,Single,21,12680,Critical account / other credits existing,Car (new),For Free,1,1,0
+BANK_0765,27,Male,Married/Widowed,24,2463,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0766,40,Male,Married/Widowed,12,1155,Existing credits paid back duly till now,Radio/Television,Own,2,1,1
+BANK_0767,31,Male,Divorced/Separated,30,3108,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0768,31,Female,Divorced/Separated/Married,10,2901,Existing credits paid back duly till now,Car (used),Rent,1,1,1
+BANK_0769,28,Male,Single,12,3617,Critical account / other credits existing,Furniture/Equipment,Rent,3,1,1
+BANK_0770,63,Male,Single,12,1655,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0771,26,Female,Divorced/Separated/Married,24,2812,Existing credits paid back duly till now,Car (used),Rent,1,1,1
+BANK_0772,25,Female,Divorced/Separated/Married,36,8065,Critical account / other credits existing,Education,Own,2,1,0
+BANK_0773,36,Male,Single,21,3275,Critical account / other credits existing,Car (used),Own,1,1,1
+BANK_0774,52,Male,Single,24,2223,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0775,66,Male,Single,12,1480,Critical account / other credits existing,Car (new),For Free,3,1,1
+BANK_0776,25,Female,Divorced/Separated/Married,24,1371,Existing credits paid back duly till now,Car (new),Rent,1,1,0
+BANK_0777,37,Male,Single,36,3535,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0778,25,Female,Divorced/Separated/Married,18,3509,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0779,38,Male,Single,36,5711,Critical account / other credits existing,Car (used),Own,2,1,1
+BANK_0780,67,Female,Divorced/Separated/Married,18,3872,Existing credits paid back duly till now,Repairs,Own,1,1,1
+BANK_0781,25,Male,Single,39,4933,Critical account / other credits existing,Radio/Television,Own,2,1,0
+BANK_0782,60,Male,Single,24,1940,Critical account / other credits existing,Car (new),Own,1,1,1
+BANK_0783,31,Male,Single,12,1410,No credits taken / all paid back duly,Retraining,Own,1,1,1
+BANK_0784,23,Female,Divorced/Separated/Married,12,836,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0785,60,Male,Divorced/Separated,20,6468,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0786,35,Male,Single,18,1941,Existing credits paid back duly till now,Business,Own,1,1,1
+BANK_0787,40,Male,Single,22,2675,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0788,38,Male,Single,48,2751,Critical account / other credits existing,Car (used),Own,2,1,1
+BANK_0789,50,Male,Single,48,6224,Delay in paying off in past,Education,For Free,1,1,0
+BANK_0790,27,Male,Single,40,5998,Critical account / other credits existing,Education,Own,1,1,0
+BANK_0791,39,Female,Divorced/Separated/Married,21,1188,Existing credits paid back duly till now,Business,Own,1,1,0
+BANK_0792,41,Male,Single,24,6313,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0793,27,Male,Married/Widowed,6,1221,Critical account / other credits existing,Furniture/Equipment,Own,2,1,1
+BANK_0794,51,Male,Divorced/Separated,24,2892,Existing credits paid back duly till now,Furniture/Equipment,For Free,1,1,1
+BANK_0795,32,Male,Single,24,3062,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,1
+BANK_0796,22,Female,Divorced/Separated/Married,9,2301,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,1
+BANK_0797,51,Male,Single,18,7511,Existing credits paid back duly till now,Car (used),For Free,1,1,0
+BANK_0798,22,Female,Divorced/Separated/Married,12,1258,Critical account / other credits existing,Furniture/Equipment,Rent,2,1,1
+BANK_0799,54,Male,Married/Widowed,24,717,Delay in paying off in past,Car (new),Own,2,1,1
+BANK_0800,35,Male,Single,9,1549,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0801,54,Male,Single,24,1597,Critical account / other credits existing,Education,For Free,2,1,1
+BANK_0802,48,Female,Divorced/Separated/Married,18,1795,Critical account / other credits existing,Radio/Television,Rent,2,1,1
+BANK_0803,24,Female,Divorced/Separated/Married,20,4272,Critical account / other credits existing,Furniture/Equipment,Own,2,1,1
+BANK_0804,35,Male,Single,12,976,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0805,24,Female,Divorced/Separated/Married,12,7472,Existing credits paid back duly till now,Car (new),Rent,1,1,1
+BANK_0806,24,Male,Single,36,9271,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0807,26,Male,Married/Widowed,6,590,Existing credits paid back duly till now,Radio/Television,Own,1,0,1
+BANK_0808,65,Male,Single,12,930,Critical account / other credits existing,Radio/Television,Own,4,1,1
+BANK_0809,55,Male,Single,42,9283,All credits at this bank paid back duly,Car (used),For Free,1,1,1
+BANK_0810,26,Female,Divorced/Separated/Married,15,1778,No credits taken / all paid back duly,Car (new),Rent,2,1,0
+BANK_0811,26,Male,Married/Widowed,8,907,Existing credits paid back duly till now,Business,Own,1,1,1
+BANK_0812,28,Male,Married/Widowed,6,484,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0813,24,Male,Single,36,9629,Critical account / other credits existing,Car (used),Own,2,1,0
+BANK_0814,54,Male,Single,48,3051,Existing credits paid back duly till now,Domestic Appliances,Own,1,1,0
+BANK_0815,46,Male,Single,48,3931,Existing credits paid back duly till now,Car (new),For Free,1,1,0
+BANK_0816,54,Female,Divorced/Separated/Married,36,7432,Delay in paying off in past,Car (new),Rent,1,1,1
+BANK_0817,62,Male,Divorced/Separated,6,1338,Existing credits paid back duly till now,Domestic Appliances,Own,1,1,1
+BANK_0818,24,Female,Divorced/Separated/Married,6,1554,Critical account / other credits existing,Radio/Television,Rent,2,1,1
+BANK_0819,43,Male,Divorced/Separated,36,15857,Existing credits paid back duly till now,Others,Own,1,1,1
+BANK_0820,26,Male,Married/Widowed,18,1345,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0821,27,Male,Married/Widowed,12,1101,Existing credits paid back duly till now,Car (new),Own,2,1,1
+BANK_0822,24,Male,Married/Widowed,12,3016,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0823,41,Male,Single,36,2712,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0824,47,Male,Single,8,731,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0825,35,Male,Divorced/Separated,18,3780,Critical account / other credits existing,Furniture/Equipment,Own,2,1,1
+BANK_0826,30,Male,Married/Widowed,21,1602,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0827,33,Female,Divorced/Separated/Married,18,3966,Critical account / other credits existing,Car (new),Rent,3,1,0
+BANK_0828,36,Male,Single,18,4165,No credits taken / all paid back duly,Business,Own,2,1,0
+BANK_0829,47,Male,Single,36,8335,Existing credits paid back duly till now,Car (used),For Free,1,1,0
+BANK_0830,38,Male,Single,48,6681,Delay in paying off in past,Business,For Free,1,1,1
+BANK_0831,44,Male,Single,24,2375,Delay in paying off in past,Business,Own,2,1,1
+BANK_0832,23,Female,Divorced/Separated/Married,18,1216,Existing credits paid back duly till now,Car (new),Rent,1,1,0
+BANK_0833,29,Male,Single,45,11816,No credits taken / all paid back duly,Business,Rent,2,1,0
+BANK_0834,42,Female,Divorced/Separated/Married,24,5084,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0835,25,Female,Divorced/Separated/Married,15,2327,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0836,48,Male,Single,12,1082,No credits taken / all paid back duly,Car (new),Own,2,1,0
+BANK_0837,21,Female,Divorced/Separated/Married,12,886,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0838,23,Female,Divorced/Separated/Married,4,601,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,1
+BANK_0839,63,Male,Single,24,2957,Critical account / other credits existing,Car (used),Own,2,1,1
+BANK_0840,46,Male,Married/Widowed,24,2611,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0841,29,Male,Single,36,5179,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0842,28,Male,Single,21,2993,Delay in paying off in past,Car (used),Own,2,1,1
+BANK_0843,23,Female,Divorced/Separated/Married,18,1943,Existing credits paid back duly till now,Repairs,Own,1,1,0
+BANK_0844,50,Male,Single,24,1559,All credits at this bank paid back duly,Business,Own,1,1,1
+BANK_0845,47,Male,Single,18,3422,Existing credits paid back duly till now,Furniture/Equipment,Own,3,1,1
+BANK_0846,35,Male,Single,21,3976,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0847,68,Male,Single,18,6761,Existing credits paid back duly till now,Car (new),Rent,2,1,0
+BANK_0848,28,Male,Married/Widowed,24,1249,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0849,59,Male,Single,9,1364,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0850,57,Male,Single,12,709,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0851,33,Male,Married/Widowed,20,2235,Critical account / other credits existing,Car (new),Rent,2,0,0
+BANK_0852,43,Male,Single,24,4042,Critical account / other credits existing,Car (used),Own,2,1,1
+BANK_0853,35,Male,Single,15,1471,Critical account / other credits existing,Radio/Television,For Free,2,1,1
+BANK_0854,32,Male,Single,18,1442,All credits at this bank paid back duly,Car (new),For Free,2,1,0
+BANK_0855,45,Male,Single,36,10875,Delay in paying off in past,Car (new),Own,2,1,1
+BANK_0856,33,Male,Married/Widowed,24,1474,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0857,40,Female,Divorced/Separated/Married,10,894,Existing credits paid back duly till now,Retraining,Own,1,1,1
+BANK_0858,28,Male,Single,15,3343,Critical account / other credits existing,Furniture/Equipment,For Free,1,1,1
+BANK_0859,29,Female,Divorced/Separated/Married,15,3959,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0860,26,Male,Single,9,3577,Existing credits paid back duly till now,Car (new),Rent,1,0,1
+BANK_0861,27,Male,Single,24,5804,Critical account / other credits existing,Car (used),Own,2,1,1
+BANK_0862,28,Male,Married/Widowed,18,2169,Delay in paying off in past,Business,Own,1,1,0
+BANK_0863,35,Female,Divorced/Separated/Married,24,2439,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0864,32,Male,Single,27,4526,Critical account / other credits existing,Furniture/Equipment,Own,2,1,1
+BANK_0865,25,Male,Single,10,2210,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,0
+BANK_0866,20,Female,Divorced/Separated/Married,15,2221,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,1
+BANK_0867,27,Female,Divorced/Separated/Married,18,2389,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0868,42,Male,Single,12,3331,Critical account / other credits existing,Furniture/Equipment,Own,1,1,1
+BANK_0869,37,Male,Single,36,7409,Existing credits paid back duly till now,Business,Own,2,1,1
+BANK_0870,24,Female,Divorced/Separated/Married,12,652,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,1
+BANK_0871,40,Female,Divorced/Separated/Married,36,7678,Delay in paying off in past,Furniture/Equipment,Own,2,1,1
+BANK_0872,46,Male,Single,6,1343,Critical account / other credits existing,Car (new),Own,2,0,1
+BANK_0873,26,Male,Single,24,1382,Critical account / other credits existing,Business,Own,2,1,1
+BANK_0874,24,Female,Divorced/Separated/Married,15,874,Existing credits paid back duly till now,Domestic Appliances,Own,1,1,1
+BANK_0875,29,Male,Single,12,3590,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0876,40,Female,Divorced/Separated/Married,11,1322,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0877,36,Male,Single,18,1940,All credits at this bank paid back duly,Radio/Television,For Free,1,1,1
+BANK_0878,28,Male,Single,36,3595,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0879,27,Male,Single,9,1422,Existing credits paid back duly till now,Car (new),For Free,1,1,0
+BANK_0880,36,Male,Single,30,6742,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0881,38,Male,Single,24,7814,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0882,48,Male,Divorced/Separated,24,9277,Existing credits paid back duly till now,Car (used),For Free,1,1,1
+BANK_0883,36,Male,Single,30,2181,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0884,65,Female,Divorced/Separated/Married,18,1098,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0885,43,Male,Divorced/Separated,24,4057,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0886,53,Female,Divorced/Separated/Married,12,795,Existing credits paid back duly till now,Education,Own,1,1,0
+BANK_0887,34,Male,Single,24,2825,Critical account / other credits existing,Business,Own,2,1,1
+BANK_0888,23,Male,Single,48,15672,Existing credits paid back duly till now,Business,Own,1,1,0
+BANK_0889,34,Male,Single,36,6614,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0890,40,Male,Single,28,7824,All credits at this bank paid back duly,Car (used),Rent,2,1,1
+BANK_0891,43,Male,Single,27,2442,Critical account / other credits existing,Business,Own,4,1,1
+BANK_0892,46,Male,Single,15,1829,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0893,38,Male,Single,12,2171,Critical account / other credits existing,Car (new),Own,2,0,1
+BANK_0894,34,Male,Single,36,5800,Critical account / other credits existing,Car (used),Own,2,1,1
+BANK_0895,29,Male,Single,18,1169,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0896,31,Male,Single,36,8947,Delay in paying off in past,Car (used),Own,1,1,1
+BANK_0897,28,Female,Divorced/Separated/Married,21,2606,Existing credits paid back duly till now,Radio/Television,Rent,1,1,1
+BANK_0898,35,Female,Divorced/Separated/Married,12,1592,Critical account / other credits existing,Furniture/Equipment,Own,1,0,1
+BANK_0899,33,Female,Divorced/Separated/Married,15,2186,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,1
+BANK_0900,42,Male,Single,18,4153,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0901,43,Male,Single,16,2625,Critical account / other credits existing,Car (new),Rent,1,1,0
+BANK_0902,44,Male,Divorced/Separated,20,3485,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0903,42,Male,Single,36,10477,Critical account / other credits existing,Car (used),For Free,2,1,1
+BANK_0904,40,Male,Married/Widowed,15,1386,Existing credits paid back duly till now,Radio/Television,Rent,1,1,1
+BANK_0905,36,Male,Single,24,1278,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0906,20,Male,Single,12,1107,Existing credits paid back duly till now,Radio/Television,Rent,1,1,1
+BANK_0907,24,Male,Single,21,3763,Existing credits paid back duly till now,Car (new),Own,1,0,1
+BANK_0908,27,Male,Married/Widowed,36,3711,Existing credits paid back duly till now,Education,Own,1,1,1
+BANK_0909,46,Female,Divorced/Separated/Married,15,3594,Delay in paying off in past,Car (used),Own,2,1,1
+BANK_0910,33,Female,Divorced/Separated/Married,9,3195,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0911,34,Female,Divorced/Separated/Married,36,4454,Delay in paying off in past,Radio/Television,Own,2,1,1
+BANK_0912,25,Female,Divorced/Separated/Married,24,4736,Critical account / other credits existing,Furniture/Equipment,Own,1,1,0
+BANK_0913,25,Female,Divorced/Separated/Married,30,2991,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0914,28,Male,Divorced/Separated,11,2142,Existing credits paid back duly till now,Business,Own,1,1,1
+BANK_0915,31,Male,Single,24,3161,All credits at this bank paid back duly,Business,Rent,1,1,0
+BANK_0916,32,Female,Divorced/Separated/Married,48,18424,No credits taken / all paid back duly,Others,Own,1,0,0
+BANK_0917,32,Male,Single,10,2848,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0918,68,Male,Single,6,14896,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0919,33,Male,Divorced/Separated,24,2359,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0920,39,Male,Single,24,3345,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,0
+BANK_0921,28,Female,Divorced/Separated/Married,18,1817,Critical account / other credits existing,Furniture/Equipment,Own,2,1,1
+BANK_0922,37,Male,Single,48,12749,Delay in paying off in past,Radio/Television,Own,1,1,1
+BANK_0923,22,Female,Divorced/Separated/Married,9,1366,Existing credits paid back duly till now,Radio/Television,Rent,1,1,0
+BANK_0924,30,Male,Single,12,2002,Existing credits paid back duly till now,Car (new),Rent,1,1,1
+BANK_0925,55,Male,Divorced/Separated,24,6872,All credits at this bank paid back duly,Furniture/Equipment,Own,1,1,0
+BANK_0926,46,Male,Single,12,697,All credits at this bank paid back duly,Car (new),Own,2,1,0
+BANK_0927,21,Female,Divorced/Separated/Married,18,1049,Critical account / other credits existing,Furniture/Equipment,Rent,1,1,1
+BANK_0928,39,Male,Single,48,10297,Existing credits paid back duly till now,Car (used),For Free,3,1,0
+BANK_0929,58,Male,Single,30,1867,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0930,43,Male,Single,12,1344,Delay in paying off in past,Car (new),Own,2,1,1
+BANK_0931,24,Male,Single,24,1747,Existing credits paid back duly till now,Furniture/Equipment,Own,1,0,1
+BANK_0932,22,Female,Divorced/Separated/Married,9,1670,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0933,30,Male,Single,9,1224,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0934,42,Male,Single,12,522,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0935,23,Female,Divorced/Separated/Married,12,1498,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0936,30,Male,Single,30,1919,Delay in paying off in past,Radio/Television,Own,2,1,0
+BANK_0937,28,Female,Divorced/Separated/Married,9,745,Existing credits paid back duly till now,Radio/Television,Own,1,1,0
+BANK_0938,30,Male,Married/Widowed,6,2063,Existing credits paid back duly till now,Radio/Television,Rent,1,1,1
+BANK_0939,42,Male,Single,60,6288,Existing credits paid back duly till now,Education,For Free,1,1,0
+BANK_0940,46,Male,Single,24,6842,Critical account / other credits existing,Car (used),Own,2,1,1
+BANK_0941,45,Male,Single,12,3527,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0942,31,Male,Single,10,1546,Existing credits paid back duly till now,Car (new),Own,1,0,1
+BANK_0943,31,Male,Single,24,929,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0944,42,Male,Single,4,1455,Critical account / other credits existing,Car (new),Own,3,1,1
+BANK_0945,46,Female,Divorced/Separated/Married,15,1845,Existing credits paid back duly till now,Furniture/Equipment,Rent,1,1,1
+BANK_0946,30,Female,Divorced/Separated/Married,48,8358,No credits taken / all paid back duly,Car (new),Own,2,1,1
+BANK_0947,30,Male,Single,24,3349,All credits at this bank paid back duly,Furniture/Equipment,For Free,1,1,0
+BANK_0948,38,Male,Single,12,2859,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0949,43,Male,Married/Widowed,18,1533,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,0
+BANK_0950,31,Male,Single,24,3621,Existing credits paid back duly till now,Radio/Television,Own,2,1,0
+BANK_0951,40,Male,Married/Widowed,18,3590,Critical account / other credits existing,Business,Own,3,1,1
+BANK_0952,24,Male,Single,36,2145,Delay in paying off in past,Business,Own,2,1,0
+BANK_0953,28,Female,Divorced/Separated/Married,24,4113,Existing credits paid back duly till now,Car (used),Rent,1,1,0
+BANK_0954,26,Female,Divorced/Separated/Married,36,10974,Existing credits paid back duly till now,Furniture/Equipment,Own,2,1,0
+BANK_0955,29,Female,Divorced/Separated/Married,12,1893,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0956,57,Female,Divorced/Separated/Married,24,1231,Critical account / other credits existing,Radio/Television,Rent,2,1,1
+BANK_0957,49,Male,Single,30,3656,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0958,37,Male,Single,9,1154,Critical account / other credits existing,Radio/Television,Own,3,1,1
+BANK_0959,45,Male,Single,28,4006,Existing credits paid back duly till now,Car (new),Own,1,1,0
+BANK_0960,30,Male,Single,24,3069,Existing credits paid back duly till now,Furniture/Equipment,For Free,1,1,1
+BANK_0961,30,Male,Married/Widowed,6,1740,Critical account / other credits existing,Radio/Television,Rent,2,1,1
+BANK_0962,47,Male,Divorced/Separated,21,2353,Delay in paying off in past,Car (new),Own,2,1,1
+BANK_0963,29,Male,Single,15,3556,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0964,35,Male,Single,24,2397,Existing credits paid back duly till now,Radio/Television,Own,2,1,0
+BANK_0965,22,Male,Married/Widowed,6,454,Existing credits paid back duly till now,Repairs,Own,1,1,1
+BANK_0966,26,Female,Divorced/Separated/Married,30,1715,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0967,23,Male,Single,27,2520,Critical account / other credits existing,Radio/Television,Own,2,1,0
+BANK_0968,54,Female,Divorced/Separated/Married,15,3568,Existing credits paid back duly till now,Radio/Television,Rent,1,1,1
+BANK_0969,29,Male,Married/Widowed,42,7166,Existing credits paid back duly till now,Radio/Television,Rent,1,1,1
+BANK_0970,40,Male,Single,11,3939,Critical account / other credits existing,Car (new),Own,2,1,1
+BANK_0971,22,Male,Single,15,1514,Existing credits paid back duly till now,Repairs,Own,1,1,1
+BANK_0972,43,Male,Single,24,7393,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0973,29,Female,Divorced/Separated/Married,24,1193,All credits at this bank paid back duly,Car (new),Rent,2,1,0
+BANK_0974,36,Male,Single,60,7297,Existing credits paid back duly till now,Business,Rent,1,1,0
+BANK_0975,33,Female,Divorced/Separated/Married,30,2831,Critical account / other credits existing,Radio/Television,Own,1,1,1
+BANK_0976,57,Female,Divorced/Separated/Married,24,1258,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0977,64,Female,Divorced/Separated/Married,6,753,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0978,42,Male,Single,18,2427,Delay in paying off in past,Business,Own,2,1,1
+BANK_0979,47,Male,Single,24,2538,Delay in paying off in past,Car (new),Own,2,1,0
+BANK_0980,25,Male,Married/Widowed,15,1264,All credits at this bank paid back duly,Car (new),Rent,1,1,0
+BANK_0981,49,Male,Single,30,8386,Critical account / other credits existing,Furniture/Equipment,Own,1,1,0
+BANK_0982,33,Male,Single,48,4844,Existing credits paid back duly till now,Business,Rent,1,1,0
+BANK_0983,28,Female,Divorced/Separated/Married,21,2923,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0984,26,Male,Single,36,8229,Existing credits paid back duly till now,Car (used),Own,1,1,0
+BANK_0985,30,Male,Single,24,2028,Critical account / other credits existing,Furniture/Equipment,Own,2,1,1
+BANK_0986,25,Female,Divorced/Separated/Married,15,1433,Critical account / other credits existing,Furniture/Equipment,Rent,2,1,1
+BANK_0987,33,Male,Divorced/Separated,42,6289,No credits taken / all paid back duly,Business,Own,2,1,1
+BANK_0988,64,Female,Divorced/Separated/Married,13,1409,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0989,29,Male,Single,24,6579,Existing credits paid back duly till now,Car (used),For Free,1,1,1
+BANK_0990,48,Male,Single,24,1743,Critical account / other credits existing,Radio/Television,Own,2,1,1
+BANK_0991,37,Male,Single,12,3565,Critical account / other credits existing,Education,Own,2,1,1
+BANK_0992,34,Male,Single,15,1569,All credits at this bank paid back duly,Radio/Television,Own,1,1,1
+BANK_0993,23,Male,Married/Widowed,18,1936,Existing credits paid back duly till now,Radio/Television,Rent,2,1,1
+BANK_0994,30,Male,Single,36,3959,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0995,50,Male,Single,12,2390,Existing credits paid back duly till now,Car (new),Own,1,1,1
+BANK_0996,31,Female,Divorced/Separated/Married,12,1736,Existing credits paid back duly till now,Furniture/Equipment,Own,1,1,1
+BANK_0997,40,Male,Divorced/Separated,30,3857,Existing credits paid back duly till now,Car (used),Own,1,1,1
+BANK_0998,38,Male,Single,12,804,Existing credits paid back duly till now,Radio/Television,Own,1,1,1
+BANK_0999,23,Male,Single,45,1845,Existing credits paid back duly till now,Radio/Television,For Free,1,1,0
+BANK_1000,27,Male,Single,45,4576,Critical account / other credits existing,Car (used),Own,1,1,1
